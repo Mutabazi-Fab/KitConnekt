@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <!-- Exclude NetBeans GUI sources/resources so a plain Java classpath can compile model/dao/tests -->
+  <classpathentry kind="src" path="src" excluding="view/**|Icon/**"/>
+  <classpathentry kind="src" path="test"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="lib" path="lib/junit-4.13.2.jar"/>
+  <classpathentry kind="lib" path="lib/hamcrest-core-1.3.jar"/>
+  <classpathentry kind="output" path="bin-eclipse"/>
+</classpath>
+
+

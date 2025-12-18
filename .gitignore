@@ -1,0 +1,29 @@
+# Java / NetBeans / Ant project ignores
+
+## Build outputs
+/build/
+/dist/
+/bin/
+/build_test/
+
+## NetBeans generated/private files
+/nbproject/private/
+/nbproject/genfiles.properties
+/nbproject/build-impl.xml
+/nbproject/private.xml
+/nbproject/private.properties
+
+## IDE/editor settings (keep if your instructor doesn't want IDE configs)
+/.vscode/
+/.idea/
+*.iml
+
+## OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+## Logs
+*.log
+
+
