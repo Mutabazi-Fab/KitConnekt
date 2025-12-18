@@ -6,6 +6,9 @@
 /bin/
 /build_test/
 
+## Accidental nested copy (keep repo clean)
+/KitConnekt/
+
 ## NetBeans generated/private files
 /nbproject/private/
 /nbproject/genfiles.properties
@@ -17,6 +20,9 @@
 /.vscode/
 /.idea/
 *.iml
+/.settings/
+/.classpath
+/.project
 
 ## OS files
 .DS_Store
